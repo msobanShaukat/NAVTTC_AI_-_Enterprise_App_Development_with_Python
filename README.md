@@ -6,7 +6,7 @@
 
 Comprehensive training program covering **Python programming**, **AI/LLM integration**, and **enterprise application development** with Frappe Framework.
 
-## 🚀 Program Overview
+## � Program Overview
 
 - **Duration**: 12 weeks (3 hours/day, 5 days/week)
 - **Format**: Daily lectures (1h) + hands-on exercises (1h)
