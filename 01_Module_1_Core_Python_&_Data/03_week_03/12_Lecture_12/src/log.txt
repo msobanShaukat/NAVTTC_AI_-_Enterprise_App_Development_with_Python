@@ -1,0 +1,7 @@
+INFO:2025-09-02:User 'admin' logged in successfully.
+INFO:2025-09-02:Data processed.
+WARNING:2025-09-02:Disk space is running low.
+ERROR:2025-09-02:Database connection failed.
+INFO:2025-09-02:User 'guest' logged in.
+ERROR:2025-09-02:Failed to write to cache.
+WARNING:2025-09-02:API response time is slow.
